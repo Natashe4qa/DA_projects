@@ -7,3 +7,5 @@
 ## 🛠️ Стек:
 
 Python • Pandas • NumPy • Matplotlib • Seaborn • SciPy • Statsmodels • PostgreSQL • Jupyter Notebook • Yandex DataLens
+
+## 💼 Проекты 
