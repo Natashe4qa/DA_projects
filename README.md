@@ -10,7 +10,7 @@ Python • Pandas • NumPy • Matplotlib • Seaborn • SciPy • Statsmodels
 
 ## 💼 Проекты 
 
-1. [Изучение рынка заведений общественного питания Москвы](https://github.com/Natashe4qa/DA_projects/tree/main/01_moscow_restaurants)
+1. [Изучение рынка заведений общественного питания Москвы](https://github.com/Natashe4qa/DA_projects/blob/main/README.md)
 
 ***Описание:*** Исследование рынка общественного питания Москвы для определения оптимальных параметров открытия нового заведения с целью максимизации его потенциальной успешности и прибыльности.
 
