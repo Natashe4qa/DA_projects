@@ -5,4 +5,4 @@
 📚 В этом портфолио собраны мои проекты, выполненные во время обучения в Яндекс Практикуме. Здесь вы найдете примеры исследовательского анализа данных и  визуализации.
 
 🛠️ Стек:
-Python • Pandas • NumPy • Matplotlib • Seaborn • PostgreSQL • Jupyter Notebook • Yandex DataLens
+Python • Pandas • NumPy • Matplotlib • Seaborn • SciPy • Statsmodels • PostgreSQL • Jupyter Notebook • Yandex DataLens
