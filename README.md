@@ -4,6 +4,6 @@
 
 📚 В этом репозитории собраны мои проекты, которые отражают мой опыт в исследовательском анализе данных и визуализации.
 
-##🛠️ Стек:
+## 🛠️ Стек:
 
 Python • Pandas • NumPy • Matplotlib • Seaborn • SciPy • Statsmodels • PostgreSQL • Jupyter Notebook • Yandex DataLens
